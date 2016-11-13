@@ -1,0 +1,2 @@
+# Equation
+Zadacha1 
